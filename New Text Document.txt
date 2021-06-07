@@ -1,22 +1,22 @@
 {
-"plan": [
-{
-"date": "07-06-2021",
-"tasks": [
-{
-"name": "Fastfood analysis - Research new metric",
-"status": "ongoing"
-},
-]
-},
-{
-"date": "04-06-2021",
-"tasks": [
-{
-"name": "Fastfood analysis - Research new metric",
-"status": "planned"
-}
-]
-}
-]
+   "plan":[
+      {
+         "date":"07-06-2021",
+         "tasks":[
+            {
+               "name":"Fastfood analysis - Research new metric",
+               "status":"ongoing"
+            }
+         ]
+      },
+      {
+         "date":"04-06-2021",
+         "tasks":[
+            {
+               "name":"Fastfood analysis - Research new metric",
+               "status":"planned"
+            }
+         ]
+      }
+   ]
 }
